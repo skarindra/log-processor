@@ -1,0 +1,28 @@
+Service Name : processClient
+Amount of request to service : 11380
+Max execution time in miliseconds : 44059660 miliseconds
+Max execution time in hours : 12 hours
+Service Name : processAction
+Amount of request to service : 11507
+Max execution time in miliseconds : 44865142 miliseconds
+Max execution time in hours : 12 hours
+Service Name : addClient
+Amount of request to service : 11467
+Max execution time in miliseconds : 44948392 miliseconds
+Max execution time in hours : 12 hours
+Service Name : checkAuth
+Amount of request to service : 11338
+Max execution time in miliseconds : 43894656 miliseconds
+Max execution time in hours : 12 hours
+Service Name : acceptToken
+Amount of request to service : 11321
+Max execution time in miliseconds : 44308591 miliseconds
+Max execution time in hours : 12 hours
+Service Name : getActions
+Amount of request to service : 11239
+Max execution time in miliseconds : 43918204 miliseconds
+Max execution time in hours : 12 hours
+Service Name : getData
+Amount of request to service : 11254
+Max execution time in miliseconds : 44175092 miliseconds
+Max execution time in hours : 12 hours
